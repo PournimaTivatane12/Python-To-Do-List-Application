@@ -8,6 +8,7 @@ APPLICATION RUN
 Overview
 This project is a simple command-line-based to-do list application written in Python. It allows users to manage their tasks by adding, viewing, and removing them from the list. It's a great project to practice Python programming and learn basic file handling.
 
+
 Features
 Add Tasks: Users can add new tasks to their to-do list.
 View Tasks: Users can view all the tasks they have added.
@@ -23,13 +24,16 @@ https://github.com/PournimaTivatane12/Python-To-Do-List-Application/blob/main/co
 Usage
 Add a Task:
 
+
 When prompted, enter the task you want to add.
 The task will be saved to your list.
 View Tasks:
 
+
 Choose the option to view tasks.
 All current tasks will be displayed.
 Remove a Task:
+
 
 Select the option to remove a task.
 Enter the task number to delete it from the list.
@@ -39,5 +43,8 @@ tasks.txt: A text file that stores the list of tasks.
 Contributing
 Contributions are welcome! If you have ideas for improving this project, feel free to fork the repository and submit a pull request.
 
+
 Contact
 If you have any questions, feel free to reach out to me at [rktivatane@gmail.com ].
+
+
