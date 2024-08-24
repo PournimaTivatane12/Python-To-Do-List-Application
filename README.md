@@ -18,12 +18,15 @@ You can also run this application 👉 https://replit.com/repls
 
 
 APPLICATION RUN
+👉
 
-👉![image](https://github.com/user-attachments/assets/49bb1aa6-f92f-4464-abf7-cd0d49d0665a)
+![image](https://github.com/user-attachments/assets/49bb1aa6-f92f-4464-abf7-cd0d49d0665a)
+👉
 
-👉![image](https://github.com/user-attachments/assets/730af1ca-a575-4cd5-a4a3-33bfc3fc8473)
+![image](https://github.com/user-attachments/assets/730af1ca-a575-4cd5-a4a3-33bfc3fc8473)
+👉
 
-👉![image](https://github.com/user-attachments/assets/81a90f72-18ee-42ae-885d-fe37d50d031d)
+![image](https://github.com/user-attachments/assets/81a90f72-18ee-42ae-885d-fe37d50d031d)
 
 Overview
 This project is a simple command-line-based to-do list application written in Python. It allows users to manage their tasks by adding, viewing, and removing them from the list. It's a great project to practice Python programming and learn basic file handling.
