@@ -17,14 +17,14 @@ You can also run this application 👉 https://replit.com/repls
 👉Outcome: Enhanced organizational and time management skills through practical implementation of programming techniques.
 
 
-APPLICATION RUN
-👉
+👉APPLICATION RUN
+
 
 ![image](https://github.com/user-attachments/assets/49bb1aa6-f92f-4464-abf7-cd0d49d0665a)
-👉
+
 
 ![image](https://github.com/user-attachments/assets/730af1ca-a575-4cd5-a4a3-33bfc3fc8473)
-👉
+
 
 ![image](https://github.com/user-attachments/assets/81a90f72-18ee-42ae-885d-fe37d50d031d)
 
