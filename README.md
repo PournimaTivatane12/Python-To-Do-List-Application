@@ -1,9 +1,29 @@
+You can also run this application 👉 https://replit.com/repls 
+
+👉Project Title: Daily Life To-Do List Application
+
+👉Technology Stack: Python, Tkinter (or any GUI library), SQLite (optional for data storage)
+
+👉Key Features: Task creation, update, and deletion functionalities
+ Task prioritization and categorization
+ Deadline setting and reminders
+
+👉Description: Developed a user-friendly to-do list application designed to manage daily tasks efficiently, supporting task tracking and prioritization.
+
+👉Responsibilities: Designed the UI using Python's GUI toolkit.
+ Implemented CRUD (Create, Read, Update, Delete) operations.
+ Integrated optional data persistence using SQLite for task storage.
+
+👉Outcome: Enhanced organizational and time management skills through practical implementation of programming techniques.
+
+
 APPLICATION RUN
 
+👉![image](https://github.com/user-attachments/assets/49bb1aa6-f92f-4464-abf7-cd0d49d0665a)
 
-![image](https://github.com/user-attachments/assets/49bb1aa6-f92f-4464-abf7-cd0d49d0665a)
-![image](https://github.com/user-attachments/assets/730af1ca-a575-4cd5-a4a3-33bfc3fc8473)
-![image](https://github.com/user-attachments/assets/81a90f72-18ee-42ae-885d-fe37d50d031d)
+👉![image](https://github.com/user-attachments/assets/730af1ca-a575-4cd5-a4a3-33bfc3fc8473)
+
+👉![image](https://github.com/user-attachments/assets/81a90f72-18ee-42ae-885d-fe37d50d031d)
 
 Overview
 This project is a simple command-line-based to-do list application written in Python. It allows users to manage their tasks by adding, viewing, and removing them from the list. It's a great project to practice Python programming and learn basic file handling.
