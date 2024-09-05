@@ -1,6 +1,6 @@
 # Python-To-Do-List-Application
 
-You can also run this application 👉 https://replit.com/repls 
+You can also run this application 👉 https://replit.com/@rktivatane/Python
 
 👉Project Title: Daily Life To-Do List Application
 
